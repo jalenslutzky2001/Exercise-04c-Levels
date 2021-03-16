@@ -32,7 +32,7 @@ Now edit the README.md file. When you have finished editing, commit your changes
 The final state of the file should be as follows (replacing the "Created by" information with your name):
 ```
 # Exercise-04c-Levels
-Exercise for MSCH-C220, 10 March 2021
+Exercise for MSCH-C220, 15 March 2021
 
 The third exercise for the 2D Platformer project, exploring the TileMap node.
 
@@ -50,5 +50,5 @@ None
 None
 
 ## Created by 
-Jason Francis
+Jalen Slutzky
 ```
